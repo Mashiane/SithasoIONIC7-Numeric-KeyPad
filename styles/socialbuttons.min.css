@@ -1,0 +1,223 @@
+.btn-facebook {
+    --color: #fff !important;
+    --background: #39579b !important;
+}
+
+.btn-facebook:active, .btn-facebook:hover {
+    --background: #324d88 !important;
+}
+
+.bg-facebook {
+    --background: #39579b !important;
+    --color: #fff !important
+}
+
+.btn-twitter {
+    --color: #fff !important;
+    --background: #049ff6 !important;
+}
+
+.btn-twitter:active, .btn-twitter:hover {
+    --background: #048fdd !important;
+}
+
+.bg-twitter {
+    --background: #049ff6 !important;
+    --color: #fff !important
+}
+
+.btn-instagram {
+    --color: #fff !important;
+    --background: #df237b !important;
+}
+
+.btn-instagram:active, .btn-instagram:hover {
+    --background: #cb1e6f !important;
+}
+
+.bg-instagram {
+    --background: #de0067 !important;
+    --color: #fff !important
+}
+
+.btn-linkedin {
+    --color: #fff !important;
+    --background: #0075aa !important;
+}
+
+.btn-linkedin:active, .btn-linkedin:hover {
+    --background: #006391 !important;
+}
+
+.bg-linkedin {
+    --background: #0075aa !important;
+    --color: #fff !important
+}
+
+.btn-twitch {
+    --color: #fff !important;
+    --background: #923cff !important;
+}
+
+.btn-twitch:active, .btn-twitch:hover {
+    --background: #8423ff !important;
+}
+
+.bg-twitch {
+    --background: #923cff !important;
+    --color: #fff !important
+}
+
+.btn-whatsapp {
+    --color: #fff !important;
+    --background: #0ad561 !important;
+}
+
+.btn-whatsapp:active, .btn-whatsapp:hover {
+    --background: #09bd56 !important;
+}
+
+.bg-whatsapp {
+    --background: #0ad561 !important;
+    --color: #fff !important
+}
+
+.btn-youtube {
+    --color: #fff !important;
+    --background: red !important;
+}
+
+.btn-youtube:active, .btn-youtube:hover {
+    --background: #e60000 !important;
+}
+
+.bg-youtube {
+    --background: red !important;
+    --color: #fff !important
+}
+
+.btn-amazon {
+    --color: #fff !important;
+    --background: #292929 !important;
+}
+
+.btn-amazon:active, .btn-amazon:hover {
+    --background: #1c1c1c !important;
+}
+
+.bg-amazon {
+    --background: #292929;
+    --color: #fff !important
+}
+
+.btn-android {
+    --color: #fff !important;
+    --background: #7dd159 !important;
+}
+
+.btn-android:active, .btn-android:hover {
+    --background: #6dcb45 !important;
+}
+
+.bg-android {
+    --background: #7dd159;
+    --color: #fff !important
+}
+
+.btn-apple {
+    --color: #fff !important;
+    --background: #000 !important;
+}
+
+.btn-apple:active, .btn-apple:hover {
+    --background: #222 !important;
+}
+
+.bg-apple {
+    --background: #000;
+    --color: #fff !important
+}
+
+.btn-dribbble {
+    --color: #fff !important;
+    --background: #ec4989 !important;
+}
+
+.btn-dribbble:active, .btn-dribbble:hover {
+    --background: #ea327a !important;
+}
+
+.bg-dribbble {
+    --background: #ec4989 !important;
+    --color: #fff !important
+}
+
+.btn-skype {
+    --color: #fff !important;
+    --background: #00a8f3 !important;
+}
+
+.btn-skype:active, .btn-skype:hover {
+    --background: #0096da !important;
+}
+
+.bg-skype {
+    --background: #00a8f3 !important;
+    --color: #fff !important
+}
+
+.btn-pinterest {
+    --color: #fff !important;
+    --background: #f12a2c !important;
+}
+
+.btn-pinterest:active, .btn-pinterest:hover {
+    --background: #ef1214 !important;
+}
+
+.bg-pinterest {
+    --background: #f12a2c !important;
+    --color: #fff !important
+}
+
+.btn-dropbox {
+    --color: #fff !important;
+    --background: #005cff !important;
+}
+
+.btn-dropbox:active, .btn-dropbox:hover {
+    --background: #0053e6 !important;
+}
+
+.bg-dropbox {
+    --background: #005cff !important;
+    --color: #fff !important
+}
+
+.btn-bitcoin {
+    --color: #fff !important;
+    --background: #f99400 !important;
+}
+
+.btn-bitcoin:active, .btn-bitcoin:hover {
+    --background: #e08500 !important;
+}
+
+.bg-bitcoin {
+    --background: #f99400 !important;
+    --color: #fff !important
+}
+
+.btn-github {
+    --color: #fff !important;
+    --background: #323131 !important;
+}
+
+.btn-github:active, .btn-github:hover {
+    --background: #252424 !important;
+}
+
+.bg-github {
+    --background: #323131 !important;
+    --color: #fff !important
+}
